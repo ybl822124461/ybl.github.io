@@ -1,31 +1,25 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+学术网站的 Github Pages 模板。这是由Stuart Geiger从Minimal Mistakes Jekyll Theme中分叉（然后分离）的，该主题是 © 2016 Michael Rose 并在 MIT 许可下发布。请参阅 LICENSE.md。
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+我认为我已经让事情顺利进行并修复了一些主要错误，但如果您想改进通用模板/主题，请随时提交问题或提出拉取请求。
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+注意：如果您正在使用此存储库并且现在收到有关安全漏洞的通知，请删除 Gemfile.lock 文件。
+指示
+如果您没有 GitHub 帐户，请注册一个 GitHub 帐户并确认您的电子邮件（必需！）
+通过单击右上角的“fork”按钮来分叉此存储库。
+转到存储库的设置（以“代码”开头的选项卡中最右边的项目应位于“取消监视”下方）。将存储库重命名为“[您的 GitHub 用户名].github.io”，这也是您网站的 URL。
+设置站点范围的配置并创建内容和元数据（见下文——另见这组差异显示哪些文件已更改，以便为用户名“getorg-testacct”的用户设置示例站点）
+将任何文件（如 PDF、.zip 文件等）上传到 files/ 目录。它们将出现在 https://[你的 GitHub 用户名].github.io/files/example.pdf。
+通过转到“GitHub 页面”部分中的存储库设置来检查状态
+（可选）使用文件夹中的 Jupyter 笔记本或 python 脚本markdown_generator从 TSV 文件生成用于出版物和演讲的降价文件。
+在https://academicpages.github.io/上查看更多信息
 
-# Instructions
+在本地运行（不在 GitHub Pages 上，在您自己的计算机上提供服务）
+克隆存储库并进行更新，如上所述
+确保您安装了 ruby​​-dev、bundler 和 nodejs：sudo apt install ruby-dev ruby-bundler nodejs
+运行bundle clean清理目录（无需运行--force）
+运行bundle install以安装 ruby​​ 依赖项。如果出现错误，请删除 Gemfile.lock 并重试。
+运行bundle exec jekyll liveserve以生成 HTML 并从localhost:4000本地服务器提供它将在更改时自动重建和刷新页面。
+变更日志——错误修正和增强
+像学术页面这样的现成模板主题存在一个后勤问题，这使得修复错误和更新核心主题变得有点棘手。如果你 fork 这个存储库，对其进行自定义，然后再次拉取，你可能会遇到合并冲突。如果你想保存你的各种 .yml 配置文件和 markdown 文件，你可以删除存储库并再次 fork 。或者你可以手动打补丁。
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
-
-See more info at https://academicpages.github.io/
-
-## To run locally (not on GitHub Pages, to serve on your own computer)
-
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-# Changelog -- bugfixes and enhancements
-
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
-
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+为了支持这一点，对底层代码的所有更改都显示为带有“代码更改”标签的已关闭问题——在此处获取列表。每个问题线程都包含链接到单个提交的注释或多个提交之间的差异，因此具有分叉存储库的人可以轻松识别他们需要修补的内容。
