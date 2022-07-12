@@ -9,9 +9,6 @@ main:
   # - title: '教学'
   #   url: /teaching/
 
-  - title: '文件夹'
-    url: /portfolio/
-
   - title: '博客'
     url: /year-archive/
 
@@ -20,3 +17,6 @@ main:
 
   - title: '指导'
     url: /markdown/
+
+  - title: '文件夹'
+url: /portfolio/
