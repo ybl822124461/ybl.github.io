@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "出版物"
-    url: /publications/
+  # - title: "出版物"
+  #   url: /publications/
 
-  - title: "会谈"
-    url: /talks/    
+  # - title: '会谈'
+  #   url: /talks/
 
-  - title: "教学"
-    url: /teaching/    
-    
-  - title: "文件夹"
+  # - title: '教学'
+  #   url: /teaching/
+
+  - title: '文件夹'
     url: /portfolio/
-        
-  - title: "博客"
+
+  - title: '博客'
     url: /year-archive/
-    
-  - title: "简历"
+
+  - title: '简历'
     url: /cv/
-    
-  - title: "指导"
+
+  - title: '指导'
     url: /markdown/
