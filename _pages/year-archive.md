@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: '主'
+title: '主题'
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/java/
 ---
 
 <!-- {% include base_path %} {% capture written_year %}'None'{% endcapture %} {% for
