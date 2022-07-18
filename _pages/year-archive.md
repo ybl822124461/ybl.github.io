@@ -4,18 +4,9 @@ permalink: /year-archive/
 title: '主题'
 author_profile: true
 redirect_from:
-  - /wordpress/docs/
----
+  # - /wordpress/docs/
 
-<!-- {% include base_path %} {% capture written_year %}'None'{% endcapture %} {% for
-post in site.posts %} {% capture year %}{{ post.date | date: '%Y' }}{%
-endcapture %} {% if year != written_year %}
-<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-{% capture written_year %}{{ year }}{% endcapture %} {% endif %} {% include
-archive-single.html %} {% endfor %}
-### 基础 -->
-
-**知识点/面试题** : (必看:+1: )：
+  **知识点/面试题** : (必看:+1: )：
 
 - [Java 基础常见知识点&面试题总结(上)](docs/java/basis/java-basic-questions-01.md)
 - [Java 基础常见知识点&面试题总结(中)](docs/java/basis/java-basic-questions-02.md)
@@ -395,3 +386,13 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 ### Linux
 
 - [Linux 入门](./docs/help/Linux学习总结.docx)
+
+---
+
+<!-- {% include base_path %} {% capture written_year %}'None'{% endcapture %} {% for
+post in site.posts %} {% capture year %}{{ post.date | date: '%Y' }}{%
+endcapture %} {% if year != written_year %}
+<h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
+{% capture written_year %}{{ year }}{% endcapture %} {% endif %} {% include
+archive-single.html %} {% endfor %}
+### 基础 -->
