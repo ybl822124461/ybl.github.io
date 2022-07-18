@@ -4,7 +4,7 @@ permalink: /year-archive/
 title: '主题'
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /wordpress/docs/
 ---
 
 ### 基础
