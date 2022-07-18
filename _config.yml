@@ -76,11 +76,11 @@ analytics:
   google:
     tracking_id:
 
-# Site Author
+# 网站作者
 author:
   name: 'YBL'
-  avatar: 'profile.png'
-  bio: 'Your biography for the left-hand sidebar'
+  avatar: 'jiqimao.png'
+  bio: '接续奋斗，不负韶华；新的征程，庄严出发。'
   location: 'Location'
   employer:
   pubmed: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow'
