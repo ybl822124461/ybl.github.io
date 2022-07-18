@@ -4,7 +4,7 @@ permalink: /year-archive/
 title: '主题'
 author_profile: true
 redirect_from:
-  - /wordpress/java/
+  - /wordpress/docs/
 ---
 
 <!-- {% include base_path %} {% capture written_year %}'None'{% endcapture %} {% for
