@@ -76,16 +76,16 @@ analytics:
   google:
     tracking_id:
 
-# Site Author
+# 网站作者
 author:
   name: 'YBL'
-  avatar: 'profile.png'
-  bio: 'Your biography for the left-hand sidebar'
-  location: 'Location'
+  avatar: 'jiqimao.png'
+  bio: '接续奋斗，不负韶华；新的征程，庄严出发。'
+  location: 'beijing'
   employer:
   pubmed: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow'
   googlescholar: 'http://yourfullgooglescholarurl.com'
-  email:
+  email: '未知'
   researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
   uri:
   bitbucket:
@@ -95,6 +95,7 @@ author:
   facebook:
   foursquare:
   github: 'ybl822124461'
+  gitLab: 'http://120.46.177.122/dashboard/groups'
   google_plus:
   keybase:
   instagram:
