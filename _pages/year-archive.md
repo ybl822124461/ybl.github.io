@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: '主题'
+title: '文章汇总'
 author_profile: true
 redirect_from:
   - /wordpress/java/
