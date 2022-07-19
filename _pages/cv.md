@@ -26,7 +26,6 @@ redirect_from:
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍贯： 中国香港</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮箱： wuyanzu@qq.com</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专业： 挖掘机</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">期望工作地： 成都</div>
 </div>
 <div>
     <div style="float: right;margin-right: 10px;">
