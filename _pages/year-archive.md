@@ -4,7 +4,7 @@ permalink: /year-archive/
 title: '文章汇总'
 author_profile: true
 redirect_from:
-  - /wordpress/java/
+  - /java/
 ---
 
 <!-- {% include base_path %} {% capture written_year %}'None'{% endcapture %} {% for
@@ -373,7 +373,7 @@ Dubbo 是一款国产的 RPC 框架，由阿里开源。相关阅读：
 
 - [搞懂异地多活，看这篇就够了](https://mp.weixin.qq.com/s/T6mMDdtTfBuIiEowCpqu6Q)
 - [四步构建异地多活](https://mp.weixin.qq.com/s/hMD-IS__4JE5_nQhYPYSTg)
-- [《从零开始学架构》— 28 | 业务高可用的保障：异地多活架构](http://gk.link/a/10pKZ)
+- [从零开始学架构](http://gk.link/a/10pKZ)
 
 ## 开源
 
