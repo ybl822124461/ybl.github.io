@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-<div style="float: left;display: flex;flex-wrap: wrap;width: 89%;justify-content: space-between;">
+<div style="float: left;display: flex;flex-wrap: wrap;width: 85%;justify-content: space-between;">
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓    名： 吴彦祖</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年    龄： 19888</div>
@@ -28,7 +28,7 @@ redirect_from:
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专    业： 挖掘机</div>
 </div>
 <div>
-    <div style="float: right;margin-right: 10px;">
+    <div style="float: right;margin-right: 9px;">
         <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="145px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
