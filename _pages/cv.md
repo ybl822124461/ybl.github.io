@@ -17,7 +17,7 @@ redirect_from:
 
 ---
 
-<div style="float: left;display: flex;flex-wrap: wrap;width: 85%;justify-content: space-between;">
+<div style="float: left;display: flex;flex-wrap: wrap;width: 80%;justify-content: space-between;">
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓    名： 吴彦祖</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年    龄： 19888</div>
