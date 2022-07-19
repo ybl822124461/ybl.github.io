@@ -17,19 +17,19 @@ redirect_from:
 
 ---
 
-<div style="float: left;display: flex;flex-wrap: wrap;width: 90%;justify-content: space-between;">
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓    名： 吴彦祖</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年    龄： 19888</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电    话： 13888888888</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍    贯： 中国香港</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮    箱： wuyanzu@qq.com</div>
-    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专    业： 挖掘机</div>
+<div style="float: left;display: flex;flex-wrap: wrap;width: 89%;justify-content: space-between;">
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓    名： 吴彦祖</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年    龄： 19888</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电    话： 13888888888</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍    贯： 中国香港</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮    箱： wuyanzu@qq.com</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专    业： 挖掘机</div>
 </div>
 <div>
     <div style="float: right;margin-right: 10px;">
-        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="145px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
 
@@ -119,7 +119,7 @@ redirect_from:
 
 [我的 gitLab 首页](http://120.46.177.122/dashboard/projects)
 
-[我的 CSDN 首页](https://blog.csdn.net/weixin_50914944)
+[我的 CSDN 首页](https://blog.csdn.net/weixin_45914944)
 
 ### 技能清单
 
