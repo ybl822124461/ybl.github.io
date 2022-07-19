@@ -32,6 +32,7 @@ redirect_from:
         <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="145px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
+---
 
 ### 教育背景
 
