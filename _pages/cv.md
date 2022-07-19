@@ -27,12 +27,11 @@ redirect_from:
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮箱： wuyanzu@qq.com</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专业： 挖掘机</div>
 </div>
-<div>
+<!-- <div>
     <div style="float: right;margin-right: 10px;">
         <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
-</div>
----
+</div> -->
 
 ### 教育背景
 
