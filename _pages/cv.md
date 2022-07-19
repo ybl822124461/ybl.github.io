@@ -18,14 +18,14 @@ redirect_from:
 ---
 
 <div style="float: left;display: flex;flex-wrap: wrap;width: 90%;justify-content: space-between;">
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓名： 吴彦祖</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年龄： 19888</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电话： 13888888888</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍贯： 中国香港</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮箱： wuyanzu@qq.com</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专业： 挖掘机</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓名： 吴彦祖</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年龄： 19888</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电话： 13888888888</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍贯： 中国香港</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮箱： wuyanzu@qq.com</div>
+    <div style="width: 50%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专业： 挖掘机</div>
 </div>
 <!-- <div>
     <div style="float: right;margin-right: 10px;">
@@ -119,7 +119,7 @@ redirect_from:
 
 [我的 gitLab 首页](http://120.46.177.122/dashboard/projects)
 
-[我的 CSDN 首页](https://blog.csdn.net/weixin_45914944)
+[我的 CSDN 首页](https://blog.csdn.net/weixin_50914944)
 
 ### 技能清单
 
