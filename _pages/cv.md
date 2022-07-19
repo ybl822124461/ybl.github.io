@@ -1,13 +1,13 @@
-<!-- ---
+---
 layout: archive
 title: ''
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
-{% include base_path %} -->
+<!--{% include base_path %} -->
 
 <div style="background-color: #000033;width: 100%;">
 	<h4 style="color: white;text-align: right;padding: 5px;">个人简历</h4>
