@@ -13,7 +13,7 @@ main:
     url: /year-archive/
 
   - title: '简历'
-    url: /cv/
+    url: /resume/
 
   - title: '指导'
     url: /markdown/
