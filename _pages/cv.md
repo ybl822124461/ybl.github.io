@@ -17,19 +17,19 @@ redirect_from:
 
 ---
 
-<div style="float: left;display: flex;flex-wrap: wrap;width: 80%;justify-content: space-between;">
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓    名： 吴彦祖</div>
+<div style="float: left;display: flex;flex-wrap: wrap;width: 86%;justify-content: space-between;">
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓名： 吴彦祖</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年    龄： 19888</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年龄： 19888</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电    话： 13888888888</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍    贯： 中国香港</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮    箱： wuyanzu@qq.com</div>
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专    业： 挖掘机</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">电话： 13888888888</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">籍贯： 中国香港</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">邮箱： wuyanzu@qq.com</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">专业： 挖掘机</div>
 </div>
 <div>
-    <div style="float: right;margin-right: 9px;">
-        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="145px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+    <div style="float: right;margin-right: 10px;">
+        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
 ---
