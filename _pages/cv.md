@@ -29,7 +29,7 @@ redirect_from:
 </div>
 <div>
     <div style="float: right;margin-right: 10px;">
-        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="120px" height="150px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
+        <img src="https://ybl822124461.github.io//images/jiqimao.png" width="105px" height="120px" style="box-shadow: 5px 5px 5px rgba(0,0,0,.5);">
     </div>
 </div>
 ---
