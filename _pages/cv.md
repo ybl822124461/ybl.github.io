@@ -47,17 +47,17 @@ redirect_from:
 
 ---
 
-熟悉java基础、如集合/多线程/线程池等，熟悉常见的设计模式（单例，工厂，代理，装饰等）
+- 熟悉java基础、如集合/多线程/线程池等，熟悉常见的设计模式（单例，工厂，代理，装饰等）
     了解jvm的主要组成部分（类加载子系统、栈、堆、垃圾回收器等）以及其作用以及工作原理。
-熟练使用spring、springmvc、mybatis-plus、springboot等常用开源框架进行日常开发工作
-熟悉springcloudAlibaba微服务组件（nacos/feign/sentinel/gateway）的作用以及其应用场景
-熟练SQL Server、MySQL、等主流关系型数据库的使用与sql编写，sql调优、使用索引对查询速度进行优化、表设计等
-熟悉非关系型数据库redis的使用（实现高可用、分布式锁等操作）
-熟悉docker容器的使用、有Kubernetes容器编排工具使用经验
-熟练掌握HTML、CSS、JS、jquery等前端基础，能够使用vue、Ant Design UI、elementUi框架进行前端开发;
-熟悉Linux常用命令、java环境搭建以及项目部署等，有使用Jenkins+webhook搭建自动化部署平台经验
-熟练使用apifox、postman、jmeter等常用的开发测试工具；
-了解云服务器的使用以及域名申请跟备案，ssl证书使用等操作，有过支付开发经验；
+- 熟练使用spring、springmvc、mybatis-plus、springboot等常用开源框架进行日常开发工作
+- 熟悉springcloudAlibaba微服务组件（nacos/feign/sentinel/gateway）的作用以及其应用场景
+- 熟练SQL Server、MySQL、等主流关系型数据库的使用与sql编写，sql调优、使用索引对查询速度进行优化、表设计等
+- 熟悉非关系型数据库redis的使用（实现高可用、分布式锁等操作）
+- 熟悉docker容器的使用、有Kubernetes容器编排工具使用经验
+- 熟练掌握HTML、CSS、JS、jquery等前端基础，能够使用vue、Ant Design UI、elementUi框架进行前端开发;
+- 熟悉Linux常用命令、java环境搭建以及项目部署等，有使用Jenkins+webhook搭建自动化部署平台经验
+- 熟练使用apifox、postman、jmeter等常用的开发测试工具；
+- 了解云服务器的使用以及域名申请跟备案，ssl证书使用等操作，有过支付开发经验；
 
 ### 工作经历
 
