@@ -18,7 +18,7 @@ redirect_from:
 ---
 
 <div style="float: left;display: flex;flex-wrap: wrap;width: 86%;justify-content: space-between;">
-    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓名： 吴彦祖</div>
+    <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">姓名： 杨</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">毕业院校： 蓝翔</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">年龄： 19888</div>
     <div style="width: 45%;font-weight: 500;color: #4c4c4c;font-size: 14px;margin: 5px;">工作年限：3 年</div>
@@ -47,14 +47,17 @@ redirect_from:
 
 ---
 
-- Web 开发：PHP/Hack/Node
-- Web 框架：ThinkPHP/Yaf/Yii/Lavarel/LazyPHP
-- 前端框架：Bootstrap/AngularJS/EmberJS/HTML5/Cocos2dJS/ionic
-- 前端工具：Bower/Gulp/SaSS/LeSS/PhoneGap
-- 数据库相关：MySQL/PgSQL/PDO/SQLite
-- 版本管理、文档和自动化部署工具：Svn/Git/PHPDoc/Phing/Composer
-- 单元测试：PHPUnit/SimpleTest/Qunit
-- 云和开放平台：SAE/BAE/AWS/微博开放平台/微信应用开发
+熟悉java基础、如集合/多线程/线程池等，熟悉常见的设计模式（单例，工厂，代理，装饰等）
+    了解jvm的主要组成部分（类加载子系统、栈、堆、垃圾回收器等）以及其作用以及工作原理。
+熟练使用spring、springmvc、mybatis-plus、springboot等常用开源框架进行日常开发工作
+熟悉springcloudAlibaba微服务组件（nacos/feign/sentinel/gateway）的作用以及其应用场景
+熟练SQL Server、MySQL、等主流关系型数据库的使用与sql编写，sql调优、使用索引对查询速度进行优化、表设计等
+熟悉非关系型数据库redis的使用（实现高可用、分布式锁等操作）
+熟悉docker容器的使用、有Kubernetes容器编排工具使用经验
+熟练掌握HTML、CSS、JS、jquery等前端基础，能够使用vue、Ant Design UI、elementUi框架进行前端开发;
+熟悉Linux常用命令、java环境搭建以及项目部署等，有使用Jenkins+webhook搭建自动化部署平台经验
+熟练使用apifox、postman、jmeter等常用的开发测试工具；
+了解云服务器的使用以及域名申请跟备案，ssl证书使用等操作，有过支付开发经验；
 
 ### 工作经历
 
@@ -118,9 +121,9 @@ redirect_from:
 
 [我的 github 首页](https://github.com/ybl822124461)
 
-[我的 gitLab 首页](http://120.46.177.122/dashboard/projects)
+[我的 gitLab 首页](http://127.0.0.1)
 
-[我的 CSDN 首页](https://blog.csdn.net/weixin_45914944)
+[我的 CSDN 首页](https://blog.csdn.net/weixin_45914944/article/details/123106952?spm=1001.2014.3001.5502)
 
 ### 技能清单
 
